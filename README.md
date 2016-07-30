@@ -17,13 +17,13 @@ create a child theme as follows:<br>
 2. create a style.css file with the following at minium in the directory created. Add any additional styling to override the parent's
 
 /*
- Theme Name:   twentytwelve Child Theme
- Theme URI:    http://www.bellasjardin.com/
- Description:  twentytwelve child theme 
- Author:       BellasJardin
- Author URI:   http://www.bellasjardin.com
- Template:     twentytwelve
- Version:      1.0.0
+ Theme Name:   twentytwelve Child Theme <br>
+ Theme URI:    http://www.bellasjardin.com/<br>
+ Description:  twentytwelve child theme <br>
+ Author:       BellasJardin <br>
+ Author URI:   http://www.bellasjardin.com <br>
+ Template:     twentytwelve <br>
+ Version:      1.0.0 <br>
 */  
 
 3. copy footer.php into the directory created
